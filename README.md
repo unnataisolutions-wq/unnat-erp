@@ -1,100 +1,71 @@
-# Open Flutter ERP & Enterprise Architecture Suite ⚡
-> **Production-Grade Multi-Platform Business Operating System (Windows Desktop .EXE, Android, iOS & Web)**  
-> Engineered by [Unnat AI Solutions](https://unnataisolutions.com) &middot; Architect: **Rohit**
+# Unnat ERP Enterprise Suite ⚡
+> **The Sovereign Local-First Enterprise Operating System (Native Windows Desktop, AI Bill OCR, Multi-Godown BOM & GST Engine)**  
+> Engineered by [Unnat AI Solutions](https://unnataisolutions.com) &middot; Systems Architect: **Rohit**
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Web%20%7C%20Android%20%7C%20iOS-blue)](#)
-[![License](https://img.shields.io/badge/License-Whitelabel%20Commercial-emerald)](https://unnataisolutions.com/software-license)
-[![Architecture](https://img.shields.io/badge/Codebase-410k%2B%20LOC-purple)](#)
-
----
-
-## 🚀 Overview
-
-Most ERP and CRM applications built for small-to-midsize enterprises are bloated, cloud-dependent, and suffer from high recurring SaaS subscriptions. 
-
-**Unnat ERP** was engineered from the ground up as a **local-first, ultra-responsive, offline-capable operating engine** built in native Flutter. It compiles seamlessly into a standalone **Windows Desktop (`.exe`) installer** via Inno Setup, as well as native mobile and web applications.
-
-### 🌟 Live Demo & Full Commercial Source Code
-- 🌐 **Official Portal & Architecture Specs:** [unnataisolutions.com/software-license](https://unnataisolutions.com/software-license)
-- 💼 **Full Agency Whitelabel License ($499 One-Time):** Includes 100% unrestricted source code, Inno Setup installer scripts, AI Bill Scanner OCR, and unlimited client resale rights.
+[![Architecture](https://img.shields.io/badge/Architecture-Enterprise%20Local--First-02569B?logo=windows)](https://unnataisolutions.com/software-license)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11%20%7C%20Web%20%7C%20Android%20%7C%20iOS-blue)](#)
+[![Codebase](https://img.shields.io/badge/Codebase-149k%2B%20LOC%20Production-purple)](#)
+[![Engine](https://img.shields.io/badge/Engine-Flutter%20%2B%20C%2B%2B%20%2B%20Python-emerald)](#)
+[![License](https://img.shields.io/badge/License-Whitelabel%20Commercial-success)](https://unnataisolutions.com/software-license)
 
 ---
 
-## 🏛️ System Architecture
+## 🏛️ Executive Summary
+
+Modern enterprise software is plagued by cloud fragility, unpredictable recurring SaaS pricing, and latency. 
+
+**Unnat ERP** is an industrial-grade, local-first enterprise operating system designed to replace legacy systems like Marg ERP, Busy, and Tally with sub-millisecond local execution, zero-downtime offline SQLite storage, and seamless edge cloud synchronization.
+
+Built on high-performance native Flutter compiling to standalone **Windows Desktop (`.exe`) binaries via Inno Setup**, as well as multi-tenant Web and native mobile distributions.
+
+### 💼 Commercial Licensing & Whitelabel Source Code
+- 🌐 **Enterprise Licensing Portal:** [unnataisolutions.com/software-license](https://unnataisolutions.com/software-license)
+- 📦 **Agency Whitelabel License ($499 One-Time):** 100% unrestricted source code access, Inno Setup compiler scripts, AI OCR models, and lifetime client redistribution rights.
+
+---
+
+## 🏗️ Core Engineering Subsystems
 
 ```text
-+------------------------------------------------------------------------+
-|                      PRESENTATION LAYER (Flutter UI)                   |
-|  [Windows Desktop 10/11]    [Android / iOS Native]     [Web / WASM]   |
-+------------------------------------------------------------------------+
-                                    |
-+------------------------------------------------------------------------+
-|                     CORE APPLICATION MODULES (BLoC / Provider)         |
-|  - AI Bill Scanner (OCR)              - POS & Retail Billing           |
-|  - Statutory Accounting (GSTR-1/2B)   - Multi-Godown Inventory (BOM)  |
-|  - Field Staff GPS Geofencing         - Payroll & Staff Khata          |
-|  - Unnat School & LMS (274 Screens)   - AI Paper Grader & Analytics    |
-+------------------------------------------------------------------------+
-                                    |
-+------------------------------------------------------------------------+
-|                       DATA & TELEPHONY BRIDGES                         |
-|  - Local SQLite (Offline-First)       - Cloudflare Edge KV & Pages     |
-|  - Python FastAPI Telephony Bridge    - 47KB Hardened Firestore Rules  |
-+------------------------------------------------------------------------+
++-----------------------------------------------------------------------------------+
+|                        UNNAT ERP KERNEL ARCHITECTURE                              |
++-----------------------------------------------------------------------------------+
+| 1. STATUTORY COMPLIANCE & ACCOUNTING ENGINE                                       |
+|    - Automated GSTR-1, GSTR-2B Reconciliation & Tax Ledger Generation               |
+|    - Real-Time Balance Sheet, Profit & Loss, Trial Balance, and Day Book          |
+|    - Multi-Currency & Bank Reconciliation Audit Trails                            |
++-----------------------------------------------------------------------------------+
+| 2. AI COMPUTER VISION BILL SCANNER                                                |
+|    - Edge OCR extraction pipeline transforming paper invoices into purchase orders|
+|    - Line-item parsing, tax rate validation, and vendor ledger auto-posting      |
++-----------------------------------------------------------------------------------+
+| 3. INDUSTRIAL MANUFACTURING & INVENTORY (BOM)                                     |
+|    - Multi-stage Bill of Materials (BOM) formulation and raw material routing     |
+|    - Multi-Godown stock allocation, batch numbers, and expiry management          |
+|    - High-velocity Retail POS billing and dynamic barcode label generator         |
++-----------------------------------------------------------------------------------+
+| 4. TELEMETRY & FIELD OPERATIONS                                                   |
+|    - Background GPS geofencing with automated staff field visit logging           |
+|    - Biometric attendance, staff khata, and automated payroll generation          |
+|    - Python FastAPI Telephony Bridge for automated debt recovery voice agents     |
++-----------------------------------------------------------------------------------+
 ```
 
 ---
 
-## 📊 Feature Matrix: Community Starter vs. Full Whitelabel Enterprise
+## 📊 Deployment & Binaries
 
-| Capability | Community Starter | Agency Whitelabel Enterprise ($499) |
-| :--- | :---: | :---: |
-| **Core Inventory & Voucher Billing** | ✅ Yes | ✅ Yes |
-| **Local SQLite Database Engine** | ✅ Yes | ✅ Yes |
-| **Native Windows Desktop (.exe) Build** | Basic | ✅ **Full Inno Setup Script Included** |
-| **AI Bill Scanner (Automated OCR)** | ❌ No | ✅ **Full Python / Vision Model Bridge** |
-| **Statutory GST Reports (GSTR-1, GSTR-2B)**| ❌ No | ✅ **Automated Excel/JSON Generation** |
-| **Field Staff Live GPS Geofencing** | ❌ No | ✅ **Background Geofence & Visit Logs** |
-| **Bill of Materials (BOM) Manufacturing** | ❌ No | ✅ **Multi-stage Production Vouchers** |
-| **Unnat School Ecosystem (274 Screens)** | ❌ No | ✅ **Complete 264k LOC Education LMS** |
-| **AI Paper Grader & Quantum Assessor** | ❌ No | ✅ **Automated Exam Grading Engine** |
-| **Unlimited Client Resale Rights** | ❌ No | ✅ **100% Whitelabel & Keep 100% Profit** |
+- **Native Windows Desktop:** Self-contained installer generated via `windows_installer_setup.iss` with Inno Setup (Zero runtime dependencies).
+- **Embedded Database:** High-concurrency WAL-mode SQLite with automatic daily local backup snapshots.
+- **Security & RBAC:** Multi-level cryptographic user access control protecting sensitive balance sheet ledgers from branch operators.
 
 ---
 
-## 🛠️ Building & Running Locally
+## 💼 Enterprise Inquiries & Agency Partnerships
 
-### Prerequisites
-- Flutter SDK (>= 3.22.0)
-- Dart SDK (>= 3.4.0)
-- Visual Studio 2022 (with Desktop development with C++ for Windows builds)
-- Inno Setup 6 (for building production Windows installers)
+Global software agencies and multi-branch enterprises can license the complete source code or contract custom turnkey white-glove rollouts:
 
-### Quick Start
-```bash
-# 1. Clone repository
-git clone https://github.com/unnataisolutions-wq/open-flutter-erp.git
-cd open-flutter-erp
-
-# 2. Install dependencies
-flutter pub get
-
-# 3. Run on Desktop (Windows)
-flutter run -d windows
-
-# 4. Run on Chrome (Web)
-flutter run -d chrome
-```
-
----
-
-## 💼 Commercial Licensing & Agency Partnerships
-
-If you run a software agency in the US, UK, Middle East, or globally, you can rebrand this entire codebase under your own agency brand and deploy it for your clients at 10x-20x margin.
-
-- **Instant Whitelabel License Checkout:** [https://unnataisolutions.com/software-license](https://unnataisolutions.com/software-license)
-- **Direct WhatsApp Founder Hotline:** [+91 83072 64895](https://wa.me/918307264895)
-- **Official Enterprise Entity:** Unnat AI Solutions (DPIIT Startup India ID: `IN-1026-9560CK` &middot; Udyam: `UDYAM-HR-11-0069591`)
-- **Founder & Systems Architect:** Rohit ([LinkedIn Profile](https://www.linkedin.com/in/rohit-unnatai/))
+- **Commercial Checkout:** [https://unnataisolutions.com/software-license](https://unnataisolutions.com/software-license)
+- **Direct Systems Architect Hotline:** [+91 83072 64895](https://wa.me/918307264895) (WhatsApp / Voice)
+- **Corporate Entity:** Unnat AI Solutions (DPIIT Startup India ID: `IN-1026-9560CK` &middot; Udyam: `UDYAM-HR-11-0069591`)
+- **Founder & CEO:** Rohit ([LinkedIn](https://www.linkedin.com/in/rohit-unnatai/))
