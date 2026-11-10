@@ -14,6 +14,7 @@
 
 [![Buy Agency Whitelabel Source Code $499](https://img.shields.io/badge/Instant%20Checkout-Agency%20Whitelabel%20Codebase%20$499-0284c7?style=for-the-badge&logo=github)](https://rzp.io/rzp/0yYOpEOz)
 [![Buy Compiled Enterprise License $99](https://img.shields.io/badge/Instant%20Checkout-Compiled%20Desktop%20License%20$99-059669?style=for-the-badge&logo=windows)](https://rzp.io/rzp/jNBClnWr)
+[![Agency Whitelabel ROI Calculator](https://img.shields.io/badge/Agency%20ROI%20Calculator-Calculate%20Whitelabel%20Profits-38bdf8?style=for-the-badge&logo=googleforms)](https://unnataisolutions.com/software-license.html)
 
 <br/><br/>
 
