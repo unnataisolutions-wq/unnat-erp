@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![Buy Agency Whitelabel Source Code $499](https://img.shields.io/badge/Instant%20Checkout-Agency%20Whitelabel%20Codebase%20$499-0284c7?style=for-the-badge&logo=github)](https://rzp.io/rzp/5xGEcK0f)
-[![Buy Compiled Enterprise License $99](https://img.shields.io/badge/Instant%20Checkout-Compiled%20Desktop%20License%20$99-059669?style=for-the-badge&logo=windows)](https://rzp.io/rzp/xZQQcXft)
+[![Buy Agency Whitelabel Source Code $499](https://img.shields.io/badge/Instant%20Checkout-Agency%20Whitelabel%20Codebase%20$499-0284c7?style=for-the-badge&logo=github)](https://rzp.io/rzp/0yYOpEOz)
+[![Buy Compiled Enterprise License $99](https://img.shields.io/badge/Instant%20Checkout-Compiled%20Desktop%20License%20$99-059669?style=for-the-badge&logo=windows)](https://rzp.io/rzp/jNBClnWr)
 
 <br/><br/>
 
