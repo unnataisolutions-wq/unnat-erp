@@ -1,0 +1,35 @@
+name: all_in_one_erp_king
+description: "Unnat ERP 9+ - Supermarket & Retail Enterprise Suite (100% Marg Compatible)"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  sqflite_common_ffi: ^2.3.3
+  sqflite_common_ffi_web: ^0.4.3
+  sqflite: ^2.3.3+1
+  path: ^1.9.0
+  intl: ^0.19.0
+  barcode_widget: ^2.0.4
+  shared_preferences: ^2.2.3
+  csv: ^6.0.0
+  excel: ^4.0.3
+  http: ^1.2.1
+  uuid: ^4.3.3
+  qr_flutter: ^4.1.0
+  printing: ^5.14.3
+  pdf: ^3.11.3
+  crypto: ^3.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
