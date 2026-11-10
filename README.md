@@ -8,6 +8,21 @@
 [![Engine](https://img.shields.io/badge/Engine-Flutter%20%2B%20C%2B%2B%20%2B%20Python-emerald)](#)
 [![License](https://img.shields.io/badge/License-Whitelabel%20Commercial-success)](https://unnataisolutions.com/software-license)
 
+<br/>
+
+<div align="center">
+
+[![Buy Agency Whitelabel Source Code $499](https://img.shields.io/badge/Instant%20Checkout-Agency%20Whitelabel%20Codebase%20$499-0284c7?style=for-the-badge&logo=github)](https://rzp.io/rzp/5xGEcK0f)
+[![Buy Compiled Enterprise License $99](https://img.shields.io/badge/Instant%20Checkout-Compiled%20Desktop%20License%20$99-059669?style=for-the-badge&logo=windows)](https://rzp.io/rzp/xZQQcXft)
+
+<br/><br/>
+
+<img src="https://unnataisolutions.com/assets/dashboard.png" alt="Unnat ERP Desktop Dashboard" width="850" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+
+*Production Native Windows Desktop ERP Dashboard (Sub-5ms SQLite queries &middot; Zero Cloud Latency)*
+
+</div>
+
 ---
 
 ## 🏛️ Executive Summary
